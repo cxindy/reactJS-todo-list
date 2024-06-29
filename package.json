@@ -1,7 +1,7 @@
 {
   "name": "reactjs-todo-list",
   "private": true,
-  "homepage": "https://cxindy.github.io/reactJS-todo-list",
+  "homepage": "https://cxindy.github.io/reactjs-todo-list",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
